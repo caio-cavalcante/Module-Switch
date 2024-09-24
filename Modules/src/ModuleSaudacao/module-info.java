@@ -1,0 +1,3 @@
+module ModuleSaudacao {
+    exports ModuleSaudacao;
+}
