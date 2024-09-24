@@ -1,3 +1,0 @@
-module ModuleApp {
-    requires ModuleSaudacao;
-}
