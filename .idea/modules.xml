@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Module-Switch.iml" filepath="$PROJECT_DIR$/Module-Switch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modulo/Modulo.iml" filepath="$PROJECT_DIR$/Modulo/Modulo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modulo/ModuloApp/ModuloApp.iml" filepath="$PROJECT_DIR$/Modulo/ModuloApp/ModuloApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modulo/ModuloSaudacao/ModuloSaudacao.iml" filepath="$PROJECT_DIR$/Modulo/ModuloSaudacao/ModuloSaudacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExpressions.iml" filepath="$PROJECT_DIR$/SwitchExpressions.iml" />
     </modules>
   </component>
 </project>
